@@ -25,7 +25,7 @@ section {
 md-card {
   overflow: hidden; }
   md-card h2 {
-    background-color: #000;
+    background-color: #333;
     color: #fff;
     margin: 0;
     padding: 16px; }
@@ -40,10 +40,11 @@ md-card {
     padding-right: 4px; }
     md-card .value.md-title {
       color: #7CB342;
-      font-size: 27px; }
+      font-size: 32px;
+      font-weight: 300; }
 
 .graphic {
-  background-color: #000;
+  background-color: #333;
   color: #fff; }
 
 .gains {
@@ -53,10 +54,11 @@ md-card {
     margin-bottom: 18px; }
   .gains .gain {
     color: #8BC34A;
-    font-size: 21px;
-    font-weight: 500; }
+    font-size: 24px;
+    font-weight: 300; }
   .gains .gain-currency {
-    font-size: 27px;
+    font-size: 32px;
+    font-weight: 300;
     margin-bottom: 10px; }
 
 .chart-container {
