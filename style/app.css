@@ -36,9 +36,9 @@ md-card {
     font-weight: 500;
     padding-left: 4px;
     padding-right: 4px; }
-    md-card .value.md-title {
-      font-size: 32px;
-      font-weight: 300; }
+  md-card .value-large {
+    font-size: 32px;
+    font-weight: 300; }
 
 .graphic {
   background-color: #424242;
